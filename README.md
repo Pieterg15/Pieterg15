@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Mechanical engineer turned data wrangler — mining fintech data like a digital prospector.<br>🐍 Python & SQL fan, still fighting off sneaky SAS and VBA like legacy bosses.<br>🤖 From ML models to scraping PDFs — specializing in end-to-end ML projects that actually work in the wild..<br>☁️ AWS, Lambda, EC2, SQL Server — because why stop at code when you can build the whole pipeline?<br>⚡ Team driver — love running teams, building energy, and giving purpose (with a side of sarcasm).<br>🚀 Problem solver? Consider it done. Build it myself? Probably already halfway.<br>🏨 Hotel? Trafalgo.
+🛠️ Mechanical engineer turned data wrangler — mining fintech data like a digital prospector.<br>🐍 Python & SQL fan, still fighting off sneaky SAS and VBA like legacy bosses.<br>🤖 From ML models to scraping PDFs — specializing in end-to-end ML projects that actually work in the wild.<br>☁️ AWS, Lambda, EC2, SQL Server — because why stop at code when you can build the whole pipeline?<br>⚡ Team driver — love running teams, building energy, and giving purpose (with a side of sarcasm).<br>🚀 Problem solver? Consider it done. Build it myself? Probably already halfway.<br>🏨 Hotel? Trafalgo.
 
 
 ## 🌐 Socials:
